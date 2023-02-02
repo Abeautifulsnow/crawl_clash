@@ -16,4 +16,4 @@ python3 clash.py
 
 - 截图如下:
 
-![screen.png](https://raw.githubusercontent.com/Abeautifulsnow/crawl_clash/main/screen.png)
+![clash.png](https://raw.githubusercontent.com/Abeautifulsnow/crawl_clash/main/clash.png)
