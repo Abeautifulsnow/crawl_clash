@@ -10,8 +10,9 @@ import requests
 from requests import exceptions
 from retry import retry
 
+# "https://raw.githubusercontent.com/paimonhub/Paimonnode/main/clash.yaml"
 CLASH_GIT_PATH = (
-    "https://raw.githubusercontent.com/paimonhub/Paimonnode/main/clash.yaml"
+    "https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash"
 )
 CLASH_LOCAL_PATH_RELATIVE = f".config/clash/{datetime.now().strftime('%m%d%H%M')}.yaml"
 HEADERS = {
